@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_57" data-name="Path 57" d="M204-81.25A1.25,1.25,0,0,0,202.75-80,1.25,1.25,0,0,0,204-78.75,1.25,1.25,0,0,0,205.25-80,1.25,1.25,0,0,0,204-81.25Zm6,0A1.25,1.25,0,0,0,208.75-80,1.25,1.25,0,0,0,210-78.75,1.25,1.25,0,0,0,211.25-80,1.25,1.25,0,0,0,210-81.25ZM207-91a10,10,0,0,0-10,10,10,10,0,0,0,10,10,10,10,0,0,0,10-10A10,10,0,0,0,207-91Zm0,18a8.011,8.011,0,0,1-8-8,8.108,8.108,0,0,1,.05-.86,10.062,10.062,0,0,0,5.21-5.37A9.974,9.974,0,0,0,212.42-83a9.76,9.76,0,0,0,2.25-.26A7.966,7.966,0,0,1,215-81,8.011,8.011,0,0,1,207-73Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_56" data-name="Path 56" d="M0,0H414V-896H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_44" data-name="Group 44" transform="translate(-197 91)" clip-path="url(#clip-path)">
+    <g id="Group_43" data-name="Group 43" clip-path="url(#clip-path-2)">
+      <path id="Path_55" data-name="Path 55" d="M192-96h30v30H192Z" fill="#a0a9b7"/>
+    </g>
+  </g>
+</svg>
